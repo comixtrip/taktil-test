@@ -1,0 +1,19 @@
+{
+  "name": "uh18-osc2midi-bitwig-controller",
+  "description": "",
+  "author": "adrian",
+  "dependencies": {
+    "taktil": "^0.13.0",
+    "tslib": "^1.9.0"
+  },
+  "devDependencies": {
+    "bitwig-webpack-plugin": "^1.1.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "copy-webpack-plugin": "^4.5.1",
+    "glob": "^7.1.2",
+    "ts-loader": "^4.1.0",
+    "typed-bitwig-api": "^6.0.0",
+    "typescript": "^2.8.1",
+    "webpack": "^4.4.1"
+  }
+}
